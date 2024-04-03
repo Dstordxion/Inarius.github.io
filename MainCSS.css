@@ -41,7 +41,7 @@ html {
     width: 100%;
     margin: auto;
     font-size: 19px;
-    min-height: 100px;
+    min-height: 70px;
   }
   
   
@@ -72,7 +72,8 @@ html {
     width: 100%;
     margin: auto;
     font-size: 19px;
-    min-height: 100px;
+    min-height: 1px;
+    background-color: #000000;
   }
   
   #header-img {
@@ -81,6 +82,13 @@ html {
   }
   
   #nav-bar {
+    background: #000000;
+
+  }
+
+  .barra{
+    background: #000000;
+
   }
   
   #nav-bar ul {
@@ -849,7 +857,7 @@ html {
   #submit {
     border: none;
     border-radius: 10px;
-    background-color: #ff5a6e;
+    background-color: #22c7f0;
     box-shadow: 1px 2px 15px #bebebe;
     font-size: 16px;
     color: white;
@@ -860,7 +868,7 @@ html {
   
   #submit:hover {
     cursor: pointer;
-    background-color: #ff7b8b;
+    background-color: #22c7f0;
   }
   
   
@@ -917,6 +925,7 @@ html {
   
     #normal-header {
       display: none;
+
     }
   
     #responsive-header {
