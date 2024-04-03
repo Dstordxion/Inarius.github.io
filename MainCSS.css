@@ -41,8 +41,7 @@ html {
     width: 100%;
     margin: auto;
     font-size: 19px;
-    min-height: 1px;
-    background-color: #000000;
+    min-height: 70px;
   }
   
   
@@ -73,7 +72,7 @@ html {
     width: 100%;
     margin: auto;
     font-size: 19px;
-    min-height: 100px;
+    min-height: 1px;
     background-color: #000000;
   }
   
