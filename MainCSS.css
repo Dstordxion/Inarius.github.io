@@ -41,7 +41,8 @@ html {
     width: 100%;
     margin: auto;
     font-size: 19px;
-    min-height: 70px;
+    min-height: 1px;
+    background-color: #000000;
   }
   
   
